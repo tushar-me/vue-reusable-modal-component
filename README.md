@@ -31,7 +31,7 @@
 
 
 
-### Use Modal Component in Component
+### Use Modal Component in Parent Component
 `src/views/Index.vue`
 
 ```javascript
